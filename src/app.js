@@ -54,9 +54,9 @@ particlesJS('particles-js',
             "value": 27.620167457129543,
             "random": true,
             "anim": {
-              "enable": false,
+              "enable": true,
               "speed": 40,
-              "size_min": 0.1,
+              "size_min": 10,
               "sync": false
             }
           },
