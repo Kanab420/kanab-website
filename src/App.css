@@ -9,3 +9,10 @@
   text-align: center;
 }
 
+#particles-js {
+  .common-block { position: relative; } canvas { position: absolute; top: 0; z-index: -1; }
+}
+
+#weedbox {
+  z-index: 0;
+}

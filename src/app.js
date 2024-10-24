@@ -86,7 +86,7 @@ particlesJS('particles-js',
           "detect_on": "canvas",
           "events": {
             "onhover": {
-              "enable": true,
+              "enable": false,
               "mode": "grab"
             },
             "onclick": {
@@ -97,7 +97,7 @@ particlesJS('particles-js',
           },
           "modes": {
             "grab": {
-              "distance": 400,
+              "distance": 45,
               "line_linked": {
                 "opacity": 1
               }
@@ -121,7 +121,7 @@ particlesJS('particles-js',
             }
           }
         },
-        "retina_detect": true
+        "retina_detect": false
       }
   
   );
